@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee65700b-2a61-4c97-9ed9-3d3a7a1ba0c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Workspace\Maven\repository" />
+        <option name="mavenHome" value="D:/Workspace/Maven/apache-maven-3.6.3_NO" />
+        <option name="userSettingsFile" value="D:\Workspace\Maven\apache-maven-3.6.3_NO\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1ahCV5C0nOXYluLYElNEXLSnbAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="*" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.springcloud.service.impl" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee65700b-2a61-4c97-9ed9-3d3a7a1ba0c2" name="Default Changelist" comment="" />
+      <created>1587178458861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587178458861</updated>
+      <workItem from="1587178463625" duration="358000" />
+      <workItem from="1587178852775" duration="235000" />
+      <workItem from="1587179116436" duration="6027000" />
+      <workItem from="1587186299261" duration="2127000" />
+      <workItem from="1587188463164" duration="3739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="239" key="#Custom_Plugin_Repositories" timestamp="1587186085979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="514" y="239" key="#Custom_Plugin_Repositories/0.0.1280.680@0.0.1280.680" timestamp="1587186085979" />
+    <state x="433" y="241" key="#Firefox_Settings" timestamp="1587191440715">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="433" y="241" key="#Firefox_Settings/0.0.1280.680@0.0.1280.680" timestamp="1587191440715" />
+    <state x="33" y="182" key="#SQL_Dialects" timestamp="1587187737632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="33" y="182" key="#SQL_Dialects/0.0.1280.680@0.0.1280.680" timestamp="1587187737632" />
+    <state x="437" y="126" key="#Web_Browsers" timestamp="1587191567192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="126" key="#Web_Browsers/0.0.1280.680@0.0.1280.680" timestamp="1587191567192" />
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587187546933">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587187546933" />
+    <state x="390" y="209" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587179089001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="390" y="209" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1587179089001" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1587189854385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587189854385" />
+    <state x="420" y="81" key="FileChooserDialogImpl" timestamp="1587191564560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587191564560" />
+    <state width="845" height="201" key="GridCell.Tab.0.bottom" timestamp="1587188804880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587188804880" />
+    <state width="845" height="201" key="GridCell.Tab.0.center" timestamp="1587188804880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587188804880" />
+    <state width="845" height="201" key="GridCell.Tab.0.left" timestamp="1587188804879">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587188804879" />
+    <state width="845" height="201" key="GridCell.Tab.0.right" timestamp="1587188804880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587188804880" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587191607056">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587191607056" />
+    <state width="232" height="461" key="SqlResolveConfigurable" timestamp="1587188938626">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="232" height="461" key="SqlResolveConfigurable/0.0.1280.680@0.0.1280.680" timestamp="1587188938626" />
+    <state x="539" y="280" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1587188854386">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="539" y="280" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1280.680@0.0.1280.680" timestamp="1587188854386" />
+    <state x="274" y="1" key="new project wizard" timestamp="1587183043571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="274" y="1" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587183043571" />
+  </component>
+</project>
