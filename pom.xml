@@ -6,12 +6,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.atguigu.springcloud</groupId>
-    <artifactId>mscloud</artifactId>
+    <artifactId>springcloud2020</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>cloud-provider-payment8001</module>
+        <module>cloud-consumer-order80</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->
