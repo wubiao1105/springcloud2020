@@ -13,6 +13,19 @@ spring:
             - springcloud2020-config
       label: master
 
+  rabbitmq:
+    host: localhost
+    port: 5672 # 默认端口是15276，但是在实际应用中为避免端口冲突，改成5672
+    username: guest
+    password: guest
+
+# 监控的端口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "bus-refresh"
+
 eureka:
   client:
     service-url:
