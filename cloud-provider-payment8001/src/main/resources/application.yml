@@ -11,6 +11,13 @@ spring:
     username: root
     password: 123456
 
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      probability: 1  # 0-1之间的数字，表示监控的范围，1表示全部监控
+
+
 eureka:
   client:
     register-with-eureka: true # 是否注册进eureka server注册中心
